@@ -1,0 +1,14 @@
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\bin\Debug\netcoreapp2.2\ControleDeVendasAPI.deps.json
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\bin\Debug\netcoreapp2.2\ControleDeVendasAPI.runtimeconfig.json
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\bin\Debug\netcoreapp2.2\ControleDeVendasAPI.runtimeconfig.dev.json
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\bin\Debug\netcoreapp2.2\ControleDeVendasAPI.dll
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\bin\Debug\netcoreapp2.2\ControleDeVendasAPI.pdb
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.csprojAssemblyReference.cache
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.csproj.CoreCompileInputs.cache
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.RazorAssemblyInfo.cache
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.RazorAssemblyInfo.cs
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.AssemblyInfoInputs.cache
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.AssemblyInfo.cs
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.dll
+C:\Users\gui\source\repos\ControleDeVendasAPI\ControleDeVendasAPI\obj\Debug\netcoreapp2.2\ControleDeVendasAPI.pdb
